@@ -1,0 +1,1 @@
+I’m learning Python for data analysis to improve financial decisions. As a lawyer and MBA in corporate finance, I won’t expect complex codes or fancy interfaces. Python is the most popular tool for financial modeling, but I also play with C++ to understand basic computation, not for practical use.
